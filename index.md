@@ -1,26 +1,41 @@
-## Portfolio
+# MSc Artificial Intelligence E-Portfolio Curriculum
 
 ---
 
-### About me
-
-
-### Machine Learning
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## About me
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+## Machine Learning
+===
+### Units 1-3
 ---
 
-### Category Name 2
+### Unit 2
+
+---
+### Unit 3
+---
+### Unit 4
+---
+### Unit 5
+---
+### Unit 6
+---
+### Unit 7
+---
+### Unit 8
+---
+### Units 8-10
+---
+### Unit 9
+---
+### Unit 10
+---
+### Unit 11
+---
+### Unit 12
+
+## Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
