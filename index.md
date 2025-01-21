@@ -6,7 +6,7 @@
 
 ---
 ## Machine Learning
-===
+---
 ### Units 1-3
 ---
 
