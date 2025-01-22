@@ -12,11 +12,13 @@
 ### Unit 1: Introduction to Machine Learning
 
 - [Collaborative Discussion 1 : The 4th Industrial Revolution](http://example.com/)
+  
 ---
 
 ### Unit 2: Exploratory Data Analysis
 
 - [Seminar Preparation](http://example.com/)
+  
 ---
 
 ### Unit 3: Correlation and Regression
@@ -31,6 +33,7 @@
 ### Unit 4: Linear Regression with Scikit-Learn
 
 - [Seminar Preparation](http://example.com/)
+  
 ---
 
 ### Unit 5: Clustering
@@ -48,6 +51,7 @@
 ### Unit 7: Introduction to Artificial Neural Networks
 
 - [Perceptron Activities](http://example.com/)
+  
 ---
 
 ### Unit 8: Training an Artificial Neural Network
