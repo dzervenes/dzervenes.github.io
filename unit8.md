@@ -12,7 +12,7 @@ In this exercise, I was tasked with calculating cost using gradient descent and 
 
 ![Code used](./images/gradientcode.png)
 
-##Initial Observations
+## Initial Observations
 
 Starting with a learning rate of 0.08 and 100 iterations, the algorithm achieved a cost of 0.0041.
 
