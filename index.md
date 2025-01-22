@@ -17,13 +17,13 @@
 
 ### Unit 2: Exploratory Data Analysis
 
-- [Seminar Preparation](unit2.md)
+- [Seminar Preparation](unit2.html)
   
 ---
 
 ### Unit 3: Correlation and Regression
 
-- [Correlation and Regression](http://example.com/)
+- [Correlation and Regression](unit3.html)
  
 ---
 
