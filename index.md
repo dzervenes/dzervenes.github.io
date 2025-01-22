@@ -9,7 +9,7 @@
 ---
 ### Unit 1: Introduction to Machine Learning
 
-- [Collaborative Discussion 1 - The 4th Industrial Revolution](http://example.com/)
+- [Collaborative Discussion 1 : The 4th Industrial Revolution](http://example.com/)
 ---
 
 ### Unit 2: Exploratory Data Analysis
@@ -22,7 +22,7 @@
 - [Linear Regression](http://example.com/)
 - [Multiple Linear Regression](http://example.com/)
 - [Polinomial Regression](http://example.com/)
-- 
+ 
 ---
 ### Unit 4: Linear Regression with Scikit-Learn
 
@@ -31,34 +31,37 @@
 ### Unit 5: Clustering
 
 - [Jaccard Coefficient Calculations](http://example.com/)
+- [Wiki Activity: Clustering](http://example.com/)
+  
 ---
 ### Unit 6: Clustering with Python
 
-- [Project 2 Title](http://example.com/)
+- [Seminar Preparation](http://example.com/)
 ---
 ### Unit 7: Introduction to Artificial Neural Networks
 
-- [Project 2 Title](http://example.com/)
+- [Perceptron Activities](http://example.com/)
 ---
 ### Unit 8: Training an Artificial Neural Network
 
 - [Gradient Cost Function](http://example.com/)
+- [Collaborative Discussion 2: Legal and Ethical views on ANN applications](http://example.com/)
 ---
 ### Unit 9: Introduction to Convolutional Neural Networks 
 
-- [Project 2 Title](http://example.com/)
+- [CNN Model Activity](http://example.com/)
 ---
 ### Unit 10: CNN Interactive Learning
 
-- [Project 2 Title](http://example.com/)
+- [Seminar Preparation](http://example.com/)
 ---
 ### Unit 11: Model Selection and Evaluation
 
-- [Project 2 Title](http://example.com/)
+- [Model Performance Measurement](http://example.com/)
 ---
 ### Unit 12: Industry 4.0 and Machine Learning
 
-- [Project 2 Title](http://example.com/)
+- [Seminar Preparation](http://example.com/)
 
 
 ---
