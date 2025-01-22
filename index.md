@@ -55,7 +55,7 @@
 ### Unit 8: Training an Artificial Neural Network
 
 - [Gradient Cost Function](http://example.com/)
-- [Collaborative Discussion 2: Legal and Ethical views on ANN applications](https://github.com/dzervenes/Machine-Learning-module/blob/229e5c781acab6a85c483b2a12b7d06f193a2adb/Collaborative_discussion_2.ipynb)
+- [Collaborative Discussion 2: Legal and Ethical views on ANN applications](Discussion2.html)
   
 ---
 
