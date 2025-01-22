@@ -28,6 +28,7 @@
 
 - [Seminar Preparation](http://example.com/)
 ---
+
 ### Unit 5: Clustering
 
 - [Jaccard Coefficient Calculations](http://example.com/)
