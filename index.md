@@ -7,41 +7,59 @@
 ---
 ## Machine Learning
 ---
-### Units 1-3
+### Unit 1: Introduction to Machine Learning
+
+- [Collaborative Discussion 1 - The 4th Industrial Revolution](http://example.com/)
 ---
 
-### Unit 2
+### Unit 2: Exploratory Data Analysis
 
+- [Seminar Preparation](http://example.com/)
 ---
-### Unit 3
----
-### Unit 4
----
-### Unit 5
----
-### Unit 6
----
-### Unit 7
----
-### Unit 8
----
-### Units 8-10
----
-### Unit 9
----
-### Unit 10
----
-### Unit 11
----
-### Unit 12
+### Unit 3: Correlation and Regression
 
-## Category Name 2
+- [Covariance Pearson Correlation](http://example.com/)
+- [Linear Regression](http://example.com/)
+- [Multiple Linear Regression](http://example.com/)
+- [Polinomial Regression](http://example.com/)
+- 
+---
+### Unit 4: Linear Regression with Scikit-Learn
 
-- [Project 1 Title]
+- [Seminar Preparation](http://example.com/)
+---
+### Unit 5: Clustering
+
+- [Jaccard Coefficient Calculations](http://example.com/)
+---
+### Unit 6: Clustering with Python
+
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+### Unit 7: Introduction to Artificial Neural Networks
+
+- [Project 2 Title](http://example.com/)
+---
+### Unit 8: Training an Artificial Neural Network
+
+- [Gradient Cost Function](http://example.com/)
+---
+### Unit 9: Introduction to Convolutional Neural Networks 
+
+- [Project 2 Title](http://example.com/)
+---
+### Unit 10: CNN Interactive Learning
+
+- [Project 2 Title](http://example.com/)
+---
+### Unit 11: Model Selection and Evaluation
+
+- [Project 2 Title](http://example.com/)
+---
+### Unit 12: Industry 4.0 and Machine Learning
+
+- [Project 2 Title](http://example.com/)
+
 
 ---
 
