@@ -29,7 +29,7 @@
 
 ### Unit 4: Linear Regression with Scikit-Learn
 
-- [Seminar Preparation](http://example.com/)
+- [Seminar Preparation](unit4.html)
   
 ---
 
