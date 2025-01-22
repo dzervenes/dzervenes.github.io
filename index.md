@@ -11,7 +11,7 @@
 
 ### Unit 1: Introduction to Machine Learning
 
-- [Collaborative Discussion 1 : The 4th Industrial Revolution](http://example.com/)
+- [Collaborative Discussion 1 : The 4th Industrial Revolution]([http://example.com/](https://github.com/dzervenes/Machine-Learning-module/blob/229e5c781acab6a85c483b2a12b7d06f193a2adb/Collaborative_Discussion_1.ipynb))
   
 ---
 
