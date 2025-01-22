@@ -46,6 +46,7 @@
 ### Unit 6: Clustering with Python
 
 - [Seminar Preparation](http://example.com/)
+  
 ---
 
 ### Unit 7: Introduction to Artificial Neural Networks
