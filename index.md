@@ -61,7 +61,7 @@
 
 ### Unit 9: Introduction to Convolutional Neural Networks 
 
-- [CNN Model Activity](http://example.com/)
+- [CNN Model Activity](unit9.html)
   
 ---
 
