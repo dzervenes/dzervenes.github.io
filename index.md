@@ -42,7 +42,7 @@
 
 ### Unit 6: Clustering with Python
 
-- [Seminar Preparation](http://example.com/)
+- [Seminar Preparation](unit6.html)
   
 ---
 
