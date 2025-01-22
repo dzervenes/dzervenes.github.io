@@ -17,7 +17,7 @@
 
 ### Unit 2: Exploratory Data Analysis
 
-- [Seminar Preparation](http://example.com/)
+- [Seminar Preparation](unit2.md)
   
 ---
 
