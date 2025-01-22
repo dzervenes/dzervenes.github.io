@@ -35,7 +35,7 @@
 
 ### Unit 5: Clustering
 
-- [Jaccard Coefficient Calculations](http://example.com/)
+- [Jaccard Coefficient Calculations](unit5.html)
 - [Wiki Activity: Clustering](wiki.html)
   
 ---
