@@ -67,7 +67,7 @@
 
 ### Unit 10: CNN Interactive Learning
 
-- [Seminar Preparation](http://example.com/)
+- [Seminar Preparation](unit10.html)
   
 ---
 
