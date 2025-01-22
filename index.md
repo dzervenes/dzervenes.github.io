@@ -79,7 +79,7 @@
 
 ### Unit 12: Industry 4.0 and Machine Learning
 
-- [Seminar Preparation](http://example.com/)
+- [Seminar Preparation](Unit12.html)
 
 
 ---
