@@ -23,10 +23,7 @@
 
 ### Unit 3: Correlation and Regression
 
-- [Covariance Pearson Correlation](http://example.com/)
-- [Linear Regression](http://example.com/)
-- [Multiple Linear Regression](http://example.com/)
-- [Polinomial Regression](http://example.com/)
+- [Correlation and Regression](http://example.com/)
  
 ---
 
