@@ -48,7 +48,7 @@
 
 ### Unit 7: Introduction to Artificial Neural Networks
 
-- [Perceptron Activities](http://example.com/)
+- [Perceptron Activities](unit7.html)
   
 ---
 
