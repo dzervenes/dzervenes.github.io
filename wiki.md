@@ -10,21 +10,27 @@ K-Means clustering is a method used to group similar data points into clusters. 
 The **Shabal.in** animation demonstrates all the steps of the K-Means clustering algorithm:
 
 Step 1: Initialization
+
 Green points represent the initial centroids, while black points are the data to be grouped. 
 
 Step 2: Assignment
+
 Data points are assigned to the nearest centroid, shown by red lines.
 
 Step 3: Update
+
 Centroids move to new positions, calculated as the average of their assigned points.
 
 Step 4: Reassignment
+
 Data points reassign to the closest centroid after updates.
 
 Step 5: Iteration
+
 Assignment and updates repeat until centroids stabilise.
 
 Step 6: Final Clustering
+
 Centroids connect to distinct groups of points, forming stable cluster
 
 ![Shabal](images/clustering1.png)
