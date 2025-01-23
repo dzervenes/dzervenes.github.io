@@ -50,9 +50,6 @@ Singh, J. and Banerjee, R., (2019). A study on single and multi-layer perceptron
     background-color: #006699;
     color: white;
   }
-  .button-container {
-    margin-left: 10px; /* Add spacing to separate the button from the edge */
-  }
 </style>
 
 <div class="button-container">
