@@ -35,19 +35,21 @@ Singh, J. and Banerjee, R., (2019). A study on single and multi-layer perceptron
 <style>
   .back-button {
     display: inline-block;
-    background-color: white; 
-    color: #006699; 
+    background-color: white;
+    color: #006699;
     text-decoration: none;
-    padding: 8px 16px; 
-    font-size: 14px; 
-    border: 2px solid #006699; 
-    border-radius: 5px; 
-    cursor: pointer; 
-    transition: background-color 0.3s, color 0.3s; 
+    padding: 8px 16px;
+    font-size: 14px;
+    border: 2px solid #006699;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    float: right; /* Float to the right */
+    margin: 10px; /* Add margin for spacing */
   }
   .back-button:hover {
-    background-color: #006699; 
-    color: white; 
+    background-color: #006699;
+    color: white;
   }
 </style>
 
