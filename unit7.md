@@ -48,3 +48,4 @@ Singh, J. and Banerjee, R., (2019). A study on single and multi-layer perceptron
 </style>
 
 <a href="https://dzervenes.github.io/" class="back-button">Back</a>
+
