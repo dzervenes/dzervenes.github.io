@@ -7,6 +7,28 @@ title: Wiki
 
 K-Means clustering is a method used to group similar data points into clusters. It works by dividing data into a set number of groups, called K, where each group has similar characteristics.  As an unsupervised learning algorithm, it identifies patterns in data without requiring predefined labels or categories, making it useful for exploring unknown data structures (Sinaga and Yang, 2020).
 
+The **Shabal.in** visualisation demonstrates all the steps of the K-Means clustering algorithm:
+
+Step 1: Initialization
+Green points represent the initial centroids, while black points are the data to be grouped. 
+
+Step 2: Assignment
+Data points are assigned to the nearest centroid, shown by red lines.
+
+Step 3: Update
+Centroids move to new positions, calculated as the average of their assigned points.
+
+Step 4: Reassignment
+Data points reassign to the closest centroid after updates.
+
+Step 5: Iteration
+Assignment and updates repeat until centroids stabilise.
+
+Step 6: Final Clustering
+Centroids connect to distinct groups of points, forming stable cluster
+
+![Shabal](images/clustering1.png)
+
 References:
 
 Sinaga, K.P. and Yang, M.-S., (2020). Unsupervised K-Means Clustering Algorithm. IEEE Access, 8, pp.80716-80727. Available at: https://doi.org/10.1109/ACCESS.2020.2988796 (Accessed 23 Jan. 2025).
