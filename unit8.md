@@ -2,7 +2,7 @@
 layout: default
 title: Unit 8
 ---
-# E-Portfolio Activity: Gradient Cost Function
+Gradient Cost Function
 
 
 The gradient descent loss function helps train models by minimising the difference between predictions and actual values. It calculates the gradient of the loss and updates parameters step by step in the direction that reduces the loss, aiming for the minimum value (Tapkir, 2023).
