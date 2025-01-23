@@ -29,5 +29,27 @@ References:
 Singh, J. and Banerjee, R., (2019). A study on single and multi-layer perceptron neural network. 2019 3rd International Conference on Computing Methodologies and Communication, pp.35–40. Available at: https://doi.org/10.1109/ICCMC.2019.8819775 (Accessed 23 Jan. 2025)
 
 
-[Back](https://dzervenes.github.io/)
+
+
+
+<style>
+  .back-button {
+    display: inline-block;
+    background-color: white;
+    color: blue;
+    text-decoration: none;
+    padding: 5px 10px; /* Reduced padding */
+    font-size: 14px; /* Smaller font size */
+    border: 2px solid blue;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  .back-button:hover {
+    background-color: blue;
+    color: white;
+  }
+</style>
+
+<a href="https://dzervenes.github.io/" class="back-button">Back</a>
 
