@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unit 8.2
+title: Unit 8mach
 ---
 
 A neural network processes data through interconnected layers. It starts with an input layer that receives data, processes it through hidden layers, and delivers a result in the output layer. The connections between artificial neurons are defined by weights, which adjust the strength of the signals. Initially, the network produces inaccurate results because it requires training. Through iterative learning, the network adjusts these weights to improve its accuracy and effectiveness (Pruciak, 2021).
