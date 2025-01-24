@@ -30,3 +30,26 @@ Suleyman, M. (2018) A major milestone for the treatment of eye disease. Availabl
 Vestberg, H. and Smith, R.F., (2025). How the Edison Alliance is connecting 1 billion people to essential services through digital technology. Available at: https://time.com/7209794/edison-alliance-digital-technology/ (Accessed 24 January 2025).
 Wismüller, A. and Stockmaster, L. (2020) ‘A prospective randomized clinical trial for measuring radiology study reporting time on artificial intelligence-based detection of intracranial hemorrhage in emergent care head CT’, arXiv preprint. Available at: https://arxiv.org/abs/2002.12515 (Accessed: 24 January 2025).
 Zhang, Y., Jiang, B., Zhang, L., Greuter, M.J.W., de Bock, G.H., Zhang, H. and Xie, X., (2022). Lung nodule detectability of artificial intelligence-assisted CT image reading in lung cancer screening. Current Medical Imaging, 18(3), pp.327-334. Available at: https://pubmed.ncbi.nlm.nih.gov/34365951/ (Accessed 24 January 2025).
+
+<style>
+  .back-button {
+    display: inline-block;
+    background-color: white;
+    color: #006699;
+    text-decoration: none;
+    padding: 5px 10px; /* Reduced padding for a smaller button */
+    font-size: 12px; /* Smaller font size */
+    border: 1px solid #006699; /* Thinner border */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    margin: 15px 0; /* Adds space above and below the button */
+  }
+  .back-button:hover {
+    background-color: #006699;
+    color: white;
+ }
+</style>
+
+<div class="button-container">
+  <a href="https://dzervenes.github.io/" class="back-button">Back</a>
