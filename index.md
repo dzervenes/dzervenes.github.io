@@ -56,6 +56,7 @@
 
 - [Gradient Cost Function](unit8.html)
 - [Collaborative Discussion 2: Legal and Ethical views on ANN applications](Discussion2.html)
+- [Seminar Preparation](unit8mach.html)
   
 ---
 
