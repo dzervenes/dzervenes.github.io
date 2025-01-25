@@ -9,7 +9,7 @@ title: Unit 5
 
 In this activity, I calculated similarity scores to analyse health attribute overlaps among three individuals. I created a dataset, defined pairs for comparison, and visualised the results using a heatmap. By excluding gender, I refined the scores, focusing purely on health-related attributes. This activity enhanced my understanding of pairwise comparisons, the impact of specific features, and the importance of unbiased analysis in evaluating similarities.
 
-For the full code and analysis, access the <a href="https://github.com/dzervenes/dzervenes.github.io/blob/master/e_Portfolio_Jaccard_Coefficient.ipynb" target="_blank" rel="noopener noreferrer"> notebook here</a>
+For the full code and analysis, access the <a href="https://github.com/dzervenes/dzervenes.github.io/blob/master/e_Portfolio_Activity_Jaccard_Coefficient.ipynb" target="_blank" rel="noopener noreferrer"> notebook here</a>
 
 <style>
   .back-button {
