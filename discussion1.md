@@ -4,16 +4,19 @@ title: Collaborative Discussion 1 - The 4th Industrial Revolution
 ---
 # Collaborative Discussion 1 : The 4th Industrial Revolution
 
+---
 
 This task explored the impact of Industry 4.0, as discussed in Schwab's (2016) article, where I chose to focus specifically on healthcare and mental health care. In my initial post, I discussed the potential of AI in mental health care, emphasising accessibility and data privacy challenges, referencing the BetterHelp case. In responses to discussions initiated by my peers, I analysed the WannaCry attack on the NHS and the Synnovis incident, highlighting the importance of cybersecurity measures such as network segmentation and patching. My summary post reinforced the need for ethical data practices and robust regulations to ensure trust and safety in healthcare.
 
 These discussions deepened my understanding of balancing technological advancement with security, ethics, and trust in sensitive sectors.
+
 
 ## Links to contributions
 
 - <a href="pdf/Initial post discussion 1.pdf" target="_blank" rel="noopener noreferrer">Initial Post</a>
 - <a href="pdf/Peer response discussion 1.pdf" target="_blank" rel="noopener noreferrer">Peer Responses</a>
 - <a href="Summary post discussion 1.pdf" target="_blank" rel="noopener noreferrer">Summary Post</a>
+
 
 Reference: 
 
