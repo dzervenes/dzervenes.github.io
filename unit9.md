@@ -12,3 +12,27 @@ Additionally, I reflected on the ethical implications of CNNs, particularly in f
 Reference:
 
 Wall, M. (2019) Biased and wrong? Facial recognition tech in the dock. BBC News. Available at: https://www.bbc.co.uk/news/business-48842750 (Accessed: 28 December 2024).
+
+<style>
+  .back-button {
+    display: inline-block;
+    background-color: white;
+    color: #006699;
+    text-decoration: none;
+    padding: 5px 10px; /* Reduced padding for a smaller button */
+    font-size: 12px; /* Smaller font size */
+    border: 1px solid #006699; /* Thinner border */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    margin: 15px 0; /* Adds space above and below the button */
+  }
+  .back-button:hover {
+    background-color: #006699;
+    color: white;
+ }
+</style>
+
+<div class="button-container">
+  <a href="https://dzervenes.github.io/" class="back-button">Back</a>
+</div>
