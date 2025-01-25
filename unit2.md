@@ -3,6 +3,8 @@ layout: default
 title: Unit 2
 ---
 
+# Auto-MPG dataset
+
 In this activity, I analysed the Auto-MPG dataset, containing 398 entries across 9 features, including fuel efficiency and engine specifications. Invalid horsepower entries were converted to numeric and filled with the median for consistency.
 
 Visualisations showed fuel efficiency negatively correlates with weight, displacement, and horsepower, and positively with model year and region.  A heatmap highlighted strong links between engine size, power, and weight. This activity improved my understanding of data preparation, correlation analysis, and the factors influencing fuel efficiency, preparing the dataset for predictive modelling. For the full code and analysis, access the [Google Colaboratory notebook here](Unit_2_Seminar_Preparation.ipynb).
