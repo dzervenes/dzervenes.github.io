@@ -9,7 +9,7 @@ This task explored the impact of Industry 4.0, as discussed in Schwab's (2016) a
 
 These discussions deepened my understanding of balancing technological advancement with security, ethics, and trust in sensitive sectors.
 
-## Links to responses
+## Links to contributions
 
 - <a href="pdf/Initial post discussion 1.pdf" target="_blank" rel="noopener noreferrer">Initial Post</a>
 - <a href="pdf/Peer response discussion 1.pdf" target="_blank" rel="noopener noreferrer">Peer Responses</a>
