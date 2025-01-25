@@ -11,6 +11,7 @@ In this activity, I explored the use of Artificial Neural Networks (ANNs) in hea
 
 
 Full version of my take on ANNs in healtcare available <a href="pdf/Pruciak.pdf" target="_blank" rel="noopener noreferrer">here</a>
+
 Full version of ethical concerns in insurance industy available <a href="pdf/UK.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
 References: 
