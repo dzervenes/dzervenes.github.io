@@ -17,7 +17,7 @@
 
 ### Unit 2: Exploratory Data Analysis
 
-- [Seminar Preparation](unit2.html)
+- [Auto-MPG dataset](unit2.html)
   
 ---
 
@@ -29,7 +29,7 @@
 
 ### Unit 4: Linear Regression with Scikit-Learn
 
-- [Seminar Preparation](unit4.html)
+- [Linear Regression with Scikit-Learn](unit4.html)
   
 ---
 
