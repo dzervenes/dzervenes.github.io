@@ -9,6 +9,7 @@ title: Unit 11
 
 In this activity, I conducted experiments to evaluate how parameters like regularisation strength, solver choice, train-test split, and noise levels impact model performance metrics, including AUC and R² scores. By systematically altering these variables, I analysed their effects on predictive accuracy, generalisation, and robustness, gaining insights into optimising machine learning models.
 
+Full version available <a href="https://github.com/dzervenes/dzervenes.github.io/blob/master/e_Portfolio_Activity_Model_Performance_Measurement.ipynb" target="_blank" rel="noopener noreferrer">here</a>
 
 
 <style>
