@@ -7,7 +7,7 @@ title: Unit 7
 
 In this activity, I explored the perceptron model, learning how inputs, weights, and biases influence outputs. Tasks demonstrated parameter adjustments' effects on sums, logical operators (e.g., AND), and the sigmoid function's role in normalising values. I gained insights into training processes, error correction, and modelling non-linear relationships like XOR.
 
-Full version available - <a href="pdf/Perceptron.pdf" target="_blank" rel="noopener noreferrer">here</a>
+Full version available <a href="pdf/Perceptron.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
 
 
