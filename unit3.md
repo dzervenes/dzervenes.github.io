@@ -11,7 +11,7 @@ In this activity, I explored various regression techniques, including linear, mu
 
 This task enhanced my understanding of statistical relationships, model sensitivity to data changes, and the importance of data preprocessing. I learned how to evaluate model fit through metrics like Pearson's correlation and R² values for robust predictions.
 
-For the full code and analysis, access the <a href="https://github.com/dzervenes/dzervenes.github.io/blob/master/e-Portfolio Activity : Correlatiipynbon and Regression." target="_blank" rel="noopener noreferrer">Google Colaboratory notebook here</a>
+For the full code and analysis, access the <a href="https://github.com/dzervenes/dzervenes.github.io/blob/master/e-Portfolio Activity : Correlation_ _and_Regression.ipynb" target="_blank" rel="noopener noreferrer">Google Colaboratory notebook here</a>
 
 
 
