@@ -2,8 +2,6 @@ title: Martyna Antas
 logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
---- 
-
   <a href="https://www.linkedin.com/in/martyna-antas-7230b811b/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
