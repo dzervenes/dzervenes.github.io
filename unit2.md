@@ -3,8 +3,32 @@ layout: default
 title: Unit 2
 ---
 
-I analysed the Auto-MPG dataset, which contains 398 entries across 9 features, including fuel efficiency, engine specifications, and car origins. Invalid entries in the horsepower column were addressed by converting it to numeric format and filling gaps with the median, ensuring consistency.
+In this activity, I analysed the Auto-MPG dataset, containing 398 entries across 9 features, including fuel efficiency and engine specifications. Invalid horsepower entries were converted to numeric and filled with the median for consistency.
 
-Visualisations revealed that fuel efficiency negatively correlates with weight, displacement, and horsepower, while positively correlating with model year and region. Newer, lighter, and less powerful cars, particularly from specific regions, were found to be more fuel-efficient. A heatmap confirmed strong inter-correlations among engine size, power, and weight, highlighting their combined influence on efficiency.
+Visualisations showed fuel efficiency negatively correlates with weight, displacement, and horsepower, and positively with model year and region.  A heatmap highlighted strong links between engine size, power, and weight. This activity improved my understanding of data preparation, correlation analysis, and the factors influencing fuel efficiency, preparing the dataset for predictive modelling. For the full code and analysis, access the [Google Colaboratory notebook here](Unit_2_Seminar_Preparation.ipynb).
 
-Additionally, origin values were mapped to regions, enabling deeper insights into regional trends. This analysis underscores the factors influencing fuel efficiency and prepares the dataset for further predictive modelling.
+
+
+<style>
+  .back-button {
+    display: inline-block;
+    background-color: white;
+    color: #006699;
+    text-decoration: none;
+    padding: 5px 10px; /* Reduced padding for a smaller button */
+    font-size: 12px; /* Smaller font size */
+    border: 1px solid #006699; /* Thinner border */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    margin: 15px 0; /* Adds space above and below the button */
+  }
+  .back-button:hover {
+    background-color: #006699;
+    color: white;
+ }
+</style>
+
+<div class="button-container">
+  <a href="https://dzervenes.github.io/" class="back-button">Back</a>
+</div>
