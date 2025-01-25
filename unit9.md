@@ -13,7 +13,7 @@ Additionally, I reflected on the ethical implications of CNNs, particularly in f
 
 Full version available <a href="https://github.com/dzervenes/dzervenes.github.io/blob/master/Unit_6_Seminar_Preparation.ipynb" target="_blank" rel="noopener noreferrer">here</a>
 
-Full version of ethical concerns in insurance industy available <a href="pdf/UK.pdf" target="_blank" rel="noopener noreferrer">here</a>
+Full version of my reflection on ethical impacts of Facial Recognition available <a href="pdf/Wall.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
 Reference:
 
