@@ -9,6 +9,8 @@ title: Wiki
 
 In this activity, I explored the K-Means clustering algorithm, learning how it groups data points into clusters based on similarity. By analysing animations from Shabal.in (n.d) and Naftali Harris (2014), I observed the algorithm's steps, including initialisation, assignment, and iteration. The importance of centroid placement became clear, as poor initialisation led to unbalanced clusters. This activity deepened my understanding of clustering dynamics and the impact of initialisation on outcomes.
 
+Access the full version <a href="pdf/Wikiactivity.pdf" target="_blank" rel="noopener noreferrer">here.</a>
+
 References:
 
 Harris, N., (2014). Visualizing K-Means Clustering. Available at: https://www.naftaliharris.com/blog/visualizing-k-means-clustering/ (Accessed 23 January 2025)
