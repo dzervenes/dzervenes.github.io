@@ -42,7 +42,7 @@
 
 ### Unit 6: Clustering with Python
 
-- [Seminar Preparation](unit6.html)
+- [K-means Clustering](unit6.html)
   
 ---
 
