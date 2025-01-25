@@ -7,7 +7,7 @@ title: Unit 8mach
 
 ---
 
-In this activity, I explored the use of Artificial Neural Networks (ANNs) in healthcare based on Pruciak (2021), highlighting their role in diagnosis and treatment and their ability to process large datasets rapidly. Additionally, I reviewed ethical concerns about AI in personal insurance using the snapshot paper by the Centre for Data Ethics and Innovation, noting issues like privacy, bias, and unfair penalties. I learned that while AI offers transformative benefits, addressing fairness, transparency, and privacy is critical to ensuring equitable and ethical implementation in these sectors.
+In this activity, I explored the use of Artificial Neural Networks (ANNs) in healthcare based on Pruciak (2021), highlighting their role in diagnosis and treatment and their ability to process large datasets rapidly. Additionally, I reviewed ethical concerns about AI in personal insurance using the snapshot paper by the Centre for Data Ethics and Innovation (n.d), noting issues like privacy, bias, and unfair penalties. I learned that while AI offers transformative benefits, addressing fairness, transparency, and privacy is critical to ensuring equitable and ethical implementation in these sectors.
 
 References: 
 
