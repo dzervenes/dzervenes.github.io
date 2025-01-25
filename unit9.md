@@ -11,6 +11,7 @@ In this activity, I explored Convolutional Neural Networks (CNNs) for object rec
 
 Additionally, I reflected on the ethical implications of CNNs, particularly in facial recognition technology, drawing on Matthew Wall’s (2019) article. This included examining biases, accuracy challenges, and societal impacts, such as misidentifications and privacy concerns, underscoring the importance of ethical development and robust safeguards.
 
+Full version available <a href="https://github.com/dzervenes/dzervenes.github.io/blob/master/Unit_6_Seminar_Preparation.ipynb" target="_blank" rel="noopener noreferrer">here</a>
 
 Full version of ethical concerns in insurance industy available <a href="pdf/UK.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
