@@ -12,6 +12,8 @@ In this activity, our group of five worked together to address the question, “
 
 
 Report available <a href="pdf/Group Report.pdf" target="_blank" rel="noopener noreferrer">here</a>
+Analysis available <a href="pdf/Final_Version_Group_Project_Group_1.pdf" target="_blank" rel="noopener noreferrer">here</a>
+
 
 Reference:
 
