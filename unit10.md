@@ -9,6 +9,10 @@ In this activity, I used the CNN Explainer to test image classification and obse
 
 Full version available <a href="pdf/Explorer.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
+Reference:
+
+CNN Explainer (n.d.) Interactive explanation of convolutional neural networks. Available at: https://poloclub.github.io/cnn-explainer/#article-relu (Accessed 26 Jan. 2025)
+
 <style>
   .back-button {
     display: inline-block;
