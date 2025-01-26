@@ -74,7 +74,7 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 10: CNN Interactive Learning
 
-- [Seminar Preparation](unit10.html)
+- [CNN Tutorial](unit10.html)
   
 ---
 
@@ -86,13 +86,15 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 12: Industry 4.0 and Machine Learning
 
-- [Seminar Preparation](Unit12.html)
+- [Future of Machine Learning](Unit12.html)
 
 
 ---
 
 
+### Group Project
 
+- [New York City Airbnb Open Data](group.html)
 
 ---
 
