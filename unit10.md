@@ -7,6 +7,8 @@ title: Unit 10
 
 In this activity, I used the CNN Explainer to test image classification and observe feature processing, focusing on how ReLU enhances patterns and max-pooling simplifies and preserves essential details through the network's hierarchical layers.
 
+Full version available <a href="pdf/Explorer.pdf" target="_blank" rel="noopener noreferrer">here</a>
+
 <style>
   .back-button {
     display: inline-block;
