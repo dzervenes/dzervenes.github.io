@@ -40,3 +40,8 @@ Dgomonov (2019) Airbnb listings and metrics in NYC, NY, USA. Available at https:
     background-color: #006699;
     color: white;
  }
+</style>
+
+<div class="button-container">
+  <a href="https://dzervenes.github.io/" class="back-button">Back</a>
+</div>
