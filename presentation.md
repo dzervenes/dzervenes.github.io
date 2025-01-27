@@ -40,3 +40,6 @@ Krizhevsky, A., (2009). The CIFAR-10 Dataset. Available at: https://www.cs.toron
 </style>
 
 <div class="button-container">
+  <a href="https://dzervenes.github.io/" class="back-button">Back</a>
+</div>
+
