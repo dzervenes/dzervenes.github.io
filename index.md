@@ -98,4 +98,9 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ---
 
+### Reflection
+
+- [Module Reflection](reflection.html)
+
+
 
