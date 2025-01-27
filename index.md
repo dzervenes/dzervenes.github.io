@@ -102,6 +102,8 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 - [CNN PowerPoint Presentation](presentation.html)
 
+---
+
 ### Reflection
 
 - [Module Reflection](reflection.html)
