@@ -15,6 +15,8 @@ Report available <a href="pdf/Group Report.pdf" target="_blank" rel="noopener no
 
 Analysis available <a href="pdf/Final_Version_Group_Project_Group_1.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
+Work Progress Documentation available <a href="pdf/Work Progress Documentation.pdf" target="_blank" rel="noopener noreferrer">here</a>
+
 
 Reference:
 
