@@ -9,7 +9,6 @@ title: Presentation
 
 This presentation explores building a deep learning model with CIFAR-10 (Krizhevsky, 2009), covering dataset preprocessing, network design, training, evaluation, and real-world applications, highlighting challenges and insights gained.
 
-In this activity, I explored the K-Means clustering algorithm, learning how it groups data points into clusters based on similarity. By analysing animations from Shabal.in (n.d) and Naftali Harris (2014), I observed the algorithm's steps, including initialisation, assignment, and iteration. The importance of centroid placement became clear, as poor initialisation led to unbalanced clusters. This activity deepened my understanding of clustering dynamics and the impact of initialisation on outcomes.
 
 PowerPoint Presentation available <a href="pdf/CNN Presentation.pdf" target="_blank" rel="noopener noreferrer">here.</a>
 
