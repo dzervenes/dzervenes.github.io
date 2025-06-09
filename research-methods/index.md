@@ -11,102 +11,68 @@ I am always keen to learn, collaborate, and contribute to meaningful ventures. F
 ---
 ## Research Methods and Professional Practice
 
-This e-portfolio is thoughtfully curated to showcase my academic progress during the University of Essex Online’s Machine Learning module, November 2024. Covering diverse topics, from Exploratory Data Analysis to Neural Networks, including Convolutional Neural Networks, it highlights the key concepts, skills, and reflections I have developed throughout the course. This portfolio presents a cohesive narrative of my learning journey, demonstrating how I have applied theoretical knowledge to practical tasks while showcasing my growth in the dynamic field of machine learning.
+This e-portfolio is thoughtfully curated to showcase my academic progress during the University of Essex Online’s Research Methods and Professional Practice module, April 2025.
 
 ---
 
-### Unit 1: Introduction to Machine Learning
+### Unit 1
 
-- [Collaborative Discussion 1 : The 4th Industrial Revolution](discussion1.html)
+- [Reflective Activity 1: Ethics in Computing](xxx.html)
   
 ---
 
-### Unit 2: Exploratory Data Analysis
+### Unit 2
 
-- [Auto-MPG dataset](unit2.html)
+- [Collaborative Discussion 1](xxx.html)
   
 ---
 
-### Unit 3: Correlation and Regression
+### Unit 3 
 
-- [Correlation and Regression](unit3.html)
+- [e-Portfolio Activity: Research Proposal Review](xxx.html)
  
 ---
 
-### Unit 4: Linear Regression with Scikit-Learn
+### Unit 4
 
-- [Linear Regression with Scikit-Learn](unit4.html)
+- [e-Portfolio Activity: Literature Review and Research Proposal Outlines](xxx.html)
   
 ---
 
-### Unit 5: Clustering
+### Unit 7
 
-- [Jaccard Coefficient Calculations](unit5.html)
-- [Wiki Activity: Clustering](wiki.html)
+- [Seminar 4: Inferential Statistics Workshop and Statistics Worksheet](xxx.html)
   
 ---
 
-### Unit 6: Clustering with Python
+### Unit 8
 
-- [K-means Clustering](unit6.html)
+- [e-Portfolio Activity: Research Proposal Outline](xxx.html)
+
   
 ---
 
-### Unit 7: Introduction to Artificial Neural Networks
+### Unit 9
 
-- [Perceptron Activities](unit7.html)
+- [Collaborative Discussion 2: Case Study on Accuracy of Information](xxx.html)
+- [e-Portfolio Activity: Charts Example Worksheet](xxx.html)
   
 ---
 
-### Unit 8: Training an Artificial Neural Network
+### Unit 10
 
-- [Gradient Cost Function](unit8.html)
-- [Collaborative Discussion 2: Legal and Ethical views on ANN applications](discussion2.html)
-- [Emerging Research in ANN](unit8mach.html)
-  
----
-
-### Unit 9: Introduction to Convolutional Neural Networks 
-
-- [CNN Model Activity](unit9.html)
-  
----
-
-### Unit 10: CNN Interactive Learning
-
-- [CNN Tutorial](unit10.html)
+- [Statistical Worksheet Submissions](xxx.html)
   
 ---
 
 ### Unit 11: Model Selection and Evaluation
 
-- [Model Performance Measurement](unit11.html)
+- [Seminar 6: e-Portfolio Preparation](xxx.html)
   
 ---
 
-### Unit 12: Industry 4.0 and Machine Learning
-
-- [Future of Machine Learning](Unit12.html)
 
 
----
-
-
-### Group Project
-
-- [New York City Airbnb Open Data](group.html)
-
----
-
-### Presentation
-
-- [CNN PowerPoint Presentation](presentation.html)
-
----
-
-### Reflection
-
-- [Module Reflection](reflection.html)
 
 
 
