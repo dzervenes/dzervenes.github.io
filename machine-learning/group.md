@@ -45,5 +45,5 @@ Dgomonov (2019) Airbnb listings and metrics in NYC, NY, USA. Available at https:
 </style>
 
 <div class="button-container">
-  <a href="https://dzervenes.github.io/" class="back-button">Back</a>
+  <a href="https://dzervenes.github.io/machine-learning/" class="back-button">Back</a>
 </div>
