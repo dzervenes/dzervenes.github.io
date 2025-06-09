@@ -11,5 +11,5 @@ I am always keen to learn, collaborate, and contribute to meaningful ventures. F
 ---
 ## Modules
 
-- [Machine Learning](machine-learning.md)
-- [Research Methods and Professional Practice](research-methods.md)
+- [Machine Learning](machine-learning/index.md)
+- [Research Methods and Professional Practice](research-methods/index.md)
