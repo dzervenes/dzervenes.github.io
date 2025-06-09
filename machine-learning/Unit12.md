@@ -32,5 +32,5 @@ Full version available <a href="pdf/railway.pdf" target="_blank" rel="noopener n
 </style>
 
 <div class="button-container">
-  <a href="https://dzervenes.github.io/" class="back-button">Back</a>
+  <a href="https://dzervenes.github.io/machine-learning/" class="back-button">Back</a>
 </div>
