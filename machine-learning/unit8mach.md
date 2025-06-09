@@ -42,4 +42,4 @@ UK Government (n.d.) Snapshot Paper: AI and Personal Insurance. Available at: ht
 </style>
 
 <div class="button-container">
-  <a href="https://dzervenes.github.io/" class="back-button">Back</a>
+  <a href="https://dzervenes.github.io/machine-learning/" class="back-button">Back</a>
