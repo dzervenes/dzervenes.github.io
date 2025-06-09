@@ -42,5 +42,5 @@ Hutson, M., (2021). Robo-writers: the rise and risks of language-generating AI. 
 </style>
 
 <div class="button-container">
-  <a href="https://dzervenes.github.io/" class="back-button">Back</a>
+  <a href="https://dzervenes.github.io/machine-learning/" class="back-button">Back</a>
 </div>
