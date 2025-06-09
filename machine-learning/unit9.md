@@ -40,5 +40,5 @@ Wall, M. (2019) Biased and wrong? Facial recognition tech in the dock. BBC News.
 </style>
 
 <div class="button-container">
-  <a href="https://dzervenes.github.io/" class="back-button">Back</a>
+  <a href="https://dzervenes.github.io/machine-learning/" class="back-button">Back</a>
 </div>
