@@ -32,5 +32,5 @@ For the full code and analysis, access the <a href="https://github.com/dzervenes
 </style>
 
 <div class="button-container">
-  <a href="https://dzervenes.github.io/" class="back-button">Back</a>
+  <a href="https://dzervenes.github.io/machine-learning/" class="back-button">Back</a>
 </div>
