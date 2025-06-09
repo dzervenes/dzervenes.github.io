@@ -9,7 +9,7 @@ Welcome to my e-portfolio! I am Martyna, a Master's student in Artificial Intell
 I am always keen to learn, collaborate, and contribute to meaningful ventures. Feel free to connect with me to share ideas or discuss opportunities!
 
 ---
-## Machine Learning
+## Research Methods and Professional Practice
 
 This e-portfolio is thoughtfully curated to showcase my academic progress during the University of Essex Online’s Machine Learning module, November 2024. Covering diverse topics, from Exploratory Data Analysis to Neural Networks, including Convolutional Neural Networks, it highlights the key concepts, skills, and reflections I have developed throughout the course. This portfolio presents a cohesive narrative of my learning journey, demonstrating how I have applied theoretical knowledge to practical tasks while showcasing my growth in the dynamic field of machine learning.
 
