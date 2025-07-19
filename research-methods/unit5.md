@@ -30,3 +30,7 @@ Document <a href="pdf/Reflective activity 2.pdf" target="_blank" rel="noopener n
     color: white;
  }
 </style>
+
+<div class="button-container">
+  <a href="https://dzervenes.github.io/research-methods/" class="back-button">Back</a>
+</div>
