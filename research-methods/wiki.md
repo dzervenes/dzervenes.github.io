@@ -30,3 +30,7 @@ Document <a href="pdf/Wiki Activity.pdf" target="_blank" rel="noopener noreferre
     color: white;
  }
 </style>
+
+<div class="button-container">
+  <a href="https://dzervenes.github.io/research-methods/" class="back-button">Back</a>
+</div>
