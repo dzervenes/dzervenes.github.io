@@ -23,13 +23,13 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 2
 
-- [Collaborative Discussion 1](xxx.html)
+- [Collaborative Discussion 1](unit2.html)
   
 ---
 
 ### Unit 3 
 
-- [e-Portfolio Activity: Research Proposal Review](xxx.html)
+- [e-Portfolio Activity: Research Proposal Review](unit3.html)
  
 ---
 
