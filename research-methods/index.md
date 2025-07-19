@@ -35,7 +35,7 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 4
 
-- [e-Portfolio Activity: Literature Review Outlines](unit4.html)
+- [e-Portfolio Activity: Literature Review Outline](unit4.html)
   
 ---
 
