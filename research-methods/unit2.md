@@ -30,3 +30,4 @@ Document <a href="pdf/Collaborative Discussion 1.pdf" target="_blank" rel="noope
     background-color: #006699;
     color: white;
  }
+</style>
