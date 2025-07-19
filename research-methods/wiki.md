@@ -29,3 +29,4 @@ Document <a href="pdf/Wiki Activity.pdf" target="_blank" rel="noopener noreferre
     background-color: #006699;
     color: white;
  }
+</style>
