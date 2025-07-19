@@ -3,7 +3,7 @@ layout: default
 title: Unit 4
 ---
 
-# e-Portfolio Activity: Literature Review and Research Proposal Outlines
+# e-Portfolio Activity: Literature Review Outline
 
 ---
 
