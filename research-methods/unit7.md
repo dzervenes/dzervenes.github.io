@@ -29,3 +29,4 @@ Document <a href="pdf/Literature Review Epidemic Modelling.pdf" target="_blank" 
     background-color: #006699;
     color: white;
  }
+</style>
