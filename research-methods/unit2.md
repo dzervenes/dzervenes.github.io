@@ -36,3 +36,7 @@ In this activity,
     color: white;
  }
 </style>
+
+<div class="button-container">
+  <a href="https://dzervenes.github.io/research-methods/" class="back-button">Back</a>
+</div>
