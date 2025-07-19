@@ -48,7 +48,9 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 7
 
+- [Literature Review](unit7.html)
 - [Seminar 4: Inferential Statistics Workshop and Statistics Worksheet](xxx.html)
+
   
 ---
 
