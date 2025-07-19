@@ -9,7 +9,12 @@ title: Unit 2
 
 In this activity, 
 
-Document <a href="pdf/Collaborative Discussion 1.pdf" target="_blank" rel="noopener noreferrer">here</a>
+
+## Links to contributions
+
+- <a href="Collaborative Discussion 1.1.pdf" target="_blank" rel="noopener noreferrer">Initial Post</a>
+- <a href="Collaborative Discussion 1.2.pdf" target="_blank" rel="noopener noreferrer">Peer Responses</a>
+- <a href="Collaborative Discussion 1.3.pdf" target="_blank" rel="noopener noreferrer">Summary Post</a>
 
 
 <style>
