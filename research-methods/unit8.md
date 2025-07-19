@@ -25,3 +25,12 @@ Document <a href="pdf/xxx.pdf" target="_blank" rel="noopener noreferrer">here</a
     transition: background-color 0.3s, color 0.3s;
     margin: 15px 0; /* Adds space above and below the button */
   }
+  .back-button:hover {
+    background-color: #006699;
+    color: white;
+ }
+</style>
+
+<div class="button-container">
+  <a href="https://dzervenes.github.io/research-methods/" class="back-button">Back</a>
+</div>
