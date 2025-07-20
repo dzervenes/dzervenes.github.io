@@ -12,9 +12,9 @@ In this activity,
 
 ## Links to contributions
 
-- <a href="Collaborative Discussion 2.1.pdf" target="_blank" rel="noopener noreferrer">Initial Post</a>
-- <a href="Collaborative Discussion 2.2.pdf" target="_blank" rel="noopener noreferrer">Peer Responses</a>
-- <a href="Collaborative Discussion 2.3.pdf" target="_blank" rel="noopener noreferrer">Summary Post</a>
+- <a href="pdf/Collaborative Discussion 2.1.pdf" target="_blank" rel="noopener noreferrer">Initial Post</a>
+- <a href="pdf/Collaborative Discussion 2.2.pdf" target="_blank" rel="noopener noreferrer">Peer Responses</a>
+- <a href="pdf/Collaborative Discussion 2.3.pdf" target="_blank" rel="noopener noreferrer">Summary Post</a>
 
 
 <style>
