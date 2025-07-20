@@ -49,7 +49,7 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 ### Unit 7
 
 - [Literature Review](unit7.html)
-- [Seminar 4: Inferential Statistics Workshop and Statistics Worksheet](xxx.html)
+- [Seminar 4: Inferential Statistics Workshop and Statistics Worksheet](unit7.1.html)
 
   
 ---
@@ -64,7 +64,7 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 ### Unit 9
 
 - [Collaborative Discussion 2: Case Study on Accuracy of Information](xxx.html)
-- [e-Portfolio Activity: Charts Example Worksheet](xxx.html)
+- [e-Portfolio Activity: Charts Example Worksheet](unit9.html)
   
 ---
 
