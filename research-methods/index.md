@@ -56,7 +56,7 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 8
 
-- [e-Portfolio Activity: Research Proposal Outline](xxx.html)
+- [e-Portfolio Activity: Research Proposal Outline](unit8.html)
 
   
 ---
@@ -70,7 +70,7 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 10
 
-- [Statistical Worksheet Submissions](xxx.html)
+- [Statistical Worksheet Submissions](unit10.html)
   
 ---
 
