@@ -76,7 +76,7 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 11
 
-- [Seminar 6: e-Portfolio Preparation](xxx.html)
+- [Seminar 6: e-Portfolio Preparation](unit11.html)
   
 ---
 
