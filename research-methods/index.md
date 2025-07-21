@@ -23,7 +23,7 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 2
 
-- [Collaborative Discussion 1: Codes of Ethics and Professional Conduct](unit2.html)
+- [Collaborative Discussion 1 - Codes of Ethics and Professional Conduct](unit2.html)
   
 ---
 
@@ -65,7 +65,7 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 ### Unit 9
 
 - [e-Portfolio Activity: Charts Example Worksheet](unit9.html)
-- [Collaborative Discussion 2: Case Study on Accuracy of Information](unit9.1.html)
+- [Collaborative Discussion 2 - Case Study on Accuracy of Information](unit9.1.html)
   
 ---
 
