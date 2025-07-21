@@ -77,7 +77,7 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 11
 
-- [Seminar 6: e-Portfolio Preparation](unit11.html)
+- [Professional Skills Reflection and Development Plan](unit11.html)
   
 ---
 
