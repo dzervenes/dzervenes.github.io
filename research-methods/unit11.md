@@ -17,7 +17,7 @@ BCS (2022). BCS Code of Conduct. British Computer Society. Available at: https:/
 
 Gibbs, G. (1988). Learning by Doing: A Guide to Teaching and Learning Methods. Oxford: Oxford Polytechnic.
 
-Wong, B., Chiu, Y.-T. T., Copsey‑Blake, M. & Nikolopoulou, M., (2021). A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), pp. 1–16. Available at: https://www.researchgate.net/publication/349420700_A_mapping_of_graduate_attributes_what_can_we_expect_from_UK_university_students (Accessed 13 July 2025).
+Wong, B., Chiu, Y.-T. T., Copsey‑Blake, M. & Nikolopoulou, M., (2021). A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), pp. 1–16. Available at: https://www.researchgate.net/publication/349420700 (Accessed 13 July 2025).
 
 
 <style>
