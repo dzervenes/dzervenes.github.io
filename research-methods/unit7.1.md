@@ -6,10 +6,13 @@ title: Unit 7.1
 # E-Portfolio Activity: Hypothesis Testing Worksheet
 ---
 
-This worksheet focused on hypothesis testing using t-tests and F-tests. I applied paired and independent samples t-tests to assess mean differences, and F-tests to evaluate equality of variances. I interpreted p-values, assessed significance, and justified the use of one-tailed or two-tailed tests. This activity strengthened my ability to draw valid conclusions from statistical data. While only my analysis is published here, the original worksheet is available upon request.
+This worksheet focused on hypothesis testing using t-tests and F-tests. I applied paired and independent samples t-tests to assess mean differences, and F-tests to evaluate equality of variances. I interpreted p-values, assessed significance, and justified the use of one-tailed or two-tailed tests. This activity strengthened my ability to draw valid conclusions from statistical data. 
 
 
-Full version available <a href="pdf/E-Portfolio Activity; Hypothesis Testing.pdf" target="_blank" rel="noopener noreferrer">here</a>
+Analysis available <a href="pdf/E-Portfolio Activity; Hypothesis Testing.pdf" target="_blank" rel="noopener noreferrer">here</a>
+
+Cardholder Worksheet available <a href="pdf/Exe 8.6C.xlsx" target="_blank" rel="noopener noreferrer">here</a>.
+Filtration Agents Worksheet available <a href="pdf/Exe 8.4G.xlsx" target="_blank" rel="noopener noreferrer">here</a>.
 
 
 <style>
