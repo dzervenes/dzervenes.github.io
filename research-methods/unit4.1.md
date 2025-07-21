@@ -7,9 +7,15 @@ title: Unit 4
 
 ---
 
-In this activity, 
+In this activity, I reflected on a case involving a public records clerk asked to disclose personal data to a researcher. I analysed the ethical duties of both parties, focusing on consent, data minimisation, and lawful processing, as outlined in the UK GDPR (UK Government, 2016). I also considered the principle of informed consent, which is essential to ethical research practice (Beauchamp and Childress, 2013). This task helped reinforce my understanding of privacy, confidentiality, and legal obligations in research involving personal data.
 
-Document <a href="pdf/Case study.pdf" target="_blank" rel="noopener noreferrer">here</a>
+Full version available <a href="pdf/Case study.pdf" target="_blank" rel="noopener noreferrer">here</a>
+
+References:
+
+Beauchamp, T. L. & Childress, J. F. (2013) Principles of Biomedical Ethics. 7th edn. Oxford: Oxford University Press
+
+UK Government (2016) General Data Protection Regulation (EU) 2016/679. Available at: https://www.legislation.gov.uk/eur/2016/679/contents (Accessed: 15 May 2025)
 
 
 <style>
