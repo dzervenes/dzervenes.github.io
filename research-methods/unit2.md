@@ -3,7 +3,7 @@ layout: default
 title: Unit 2
 ---
 
-# Collaborative Discussion 1: Codes of Ethics and Professional Conduct
+# Collaborative Discussion 1 - Codes of Ethics and Professional Conduct
 
 ---
 
