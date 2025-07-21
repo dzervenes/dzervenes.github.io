@@ -64,8 +64,8 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 9
 
-- [Collaborative Discussion 2: Case Study on Accuracy of Information](unit9.1.html)
 - [e-Portfolio Activity: Charts Example Worksheet](unit9.html)
+- [Collaborative Discussion 2: Case Study on Accuracy of Information](unit9.1.html)
   
 ---
 
