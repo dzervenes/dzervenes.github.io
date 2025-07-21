@@ -6,9 +6,9 @@ title: Unit 8
 # E-Portfolio Activity: Research Proposal Outline
 ---
 
-In this activity, 
+IThis formative activity involved drafting a research proposal outline focused on interpretable and reliable machine learning for epidemic forecasting. I defined the research problem, formulated a central question, and proposed a hybrid ML–epidemiological model integrating interpretability tools such as SHAP and LIME. The outline also addressed methodological planning, ethical considerations, and the development of a prototype forecasting tool. This submission helped clarify the research direction and guided the design of my final proposal.
 
-Document <a href="pdf/Outline research proposal.pdf" target="_blank" rel="noopener noreferrer">here</a>
+Full version available <a href="pdf/Outline research proposal.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
 
 <style>
