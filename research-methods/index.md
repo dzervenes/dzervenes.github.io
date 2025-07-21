@@ -50,7 +50,7 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 ### Unit 7
 
 - [Literature Review](unit7.html)
-- [Statistics Worksheet](unit7.1.html)
+- [E-Portfolio Activity: Hypothesis Testing Worksheet](unit7.1.html)
 
   
 ---
