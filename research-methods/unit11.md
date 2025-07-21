@@ -7,7 +7,7 @@ title: Unit 11
 
 ---
 
-This task involved reviewing the Professional Skills Matrix, conducting a personal SWOT analysis, and creating an action plan. I reflected on how the Research Methods module supported my development in research design, ethics, quantitative analysis, and critical engagement with literature—key areas outlined in the BCS guidelines and Essex graduate attributes (BCS, 2022; University of Essex, 2023). I linked these skills to academic and workplace contexts, such as analysing railway failure data. Using reflective models (e.g. Gibbs, 1988), I identified specific areas for growth and created a detailed plan to gain experience in primary research, enhance data analysis, and improve visualisation skills using R.
+This task involved reviewing the Professional Skills Matrix, conducting a personal SWOT analysis, and creating an action plan. I reflected on how the Research Methods module supported my development in research design, ethics, quantitative analysis, and critical engagement with literature—key areas outlined in the BCS guidelines and Essex graduate attributes (BCS, 2022; Wong et al., 2021). I linked these skills to academic and workplace contexts, such as analysing railway failure data. Using reflective models (e.g. Gibbs, 1988), I identified specific areas for growth and created a detailed plan to gain experience in primary research, enhance data analysis, and improve visualisation skills using R.
 
 Full version available <a href="pdf/Professional Skills Reflection and Development Plan.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
@@ -17,7 +17,8 @@ BCS (2022). BCS Code of Conduct. British Computer Society. Available at: https:/
 
 Gibbs, G. (1988). Learning by Doing: A Guide to Teaching and Learning Methods. Oxford: Oxford Polytechnic.
 
-University of Essex (2023). Graduate Capabilities and Attributes. Available at: https://www.essex.ac.uk/about/governance/academic-standards-and-quality/graduate-attributes (Accessed 13 July 2025).
+Wong, B., Chiu, Y.-T. T., Copsey‑Blake, M. & Nikolopoulou, M., (2021). A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), pp. 1–16. Available at: https://www.researchgate.net/publication/349420700_A_mapping_of_graduate_attributes_what_can_we_expect_from_UK_university_students (Accessed 13 July 2025).
+
 
 <style>
   .back-button {
