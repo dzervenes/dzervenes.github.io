@@ -10,7 +10,7 @@ This activity involved analysing several datasets using descriptive statistics a
 
 Full analysis available <a href="pdf/Dataset analysis.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
-Brand Preferences by Area Worksheet available <a href="pdf/Exe 9.1-2D.xlsx" target="_blank" rel="noopener noreferrer">here</a>.
+Brand Preferences Worksheet available <a href="pdf/Exe 9.1-2D.xlsx" target="_blank" rel="noopener noreferrer">here</a>.
 
 Cardholder Worksheet available <a href="pdf/Exe 8.6C.xlsx" target="_blank" rel="noopener noreferrer">here</a>.
 
