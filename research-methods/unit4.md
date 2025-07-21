@@ -7,11 +7,13 @@ title: Unit 4
 
 ---
 
-In this activity, 
+In this formative task, I submitted a structured outline of my literature review focused on interpretable and reliable machine learning in epidemic forecasting. The initial version highlighted key themes, including model transparency, ethical AI, and public health applications. After receiving tutor feedback, I revised the scope to better define gaps in the existing literature and clarified the thematic grouping. This outline later informed the structure of my final literature review.
 
-First version <a href="pdf/Literature Review Outline 1.pdf" target="_blank" rel="noopener noreferrer">here</a>
-Feedback <a href="pdf/Tutor Feedback.pdf" target="_blank" rel="noopener noreferrer">here</a>
-Final version <a href="pdf/Literature Review Outline Final.pdf" target="_blank" rel="noopener noreferrer">here</a>
+## Documents
+
+- <a href="pdf/Literature Review Outline 1.pdf" target="_blank" rel="noopener noreferrer">First version</a>
+- <a href="pdf/Tutor Feedback.pdf" target="_blank" rel="noopener noreferrer">Feedback</a>
+- <a href="pdf/Literature Review Outline Final.pdf" target="_blank" rel="noopener noreferrer">Final version</a>
 
 <style>
   .back-button {
