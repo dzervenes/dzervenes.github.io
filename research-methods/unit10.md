@@ -10,6 +10,10 @@ This activity involved analysing several datasets using descriptive statistics a
 
 Full analysis available <a href="pdf/Dataset analysis.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
+Brand Preferences by Area Worksheet available <a href="pdf/Exe 9.1-2D.xlsx" target="_blank" rel="noopener noreferrer">here</a>.
+
+Diet Comparison Worksheet available <a href="pdf/Exe 9.3B.xlsx" target="_blank" rel="noopener noreferrer">here</a>.
+
 
 <style>
   .back-button {
