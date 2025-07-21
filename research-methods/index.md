@@ -11,7 +11,7 @@ I am always keen to learn, collaborate, and contribute to meaningful ventures. F
 ---
 ## Research Methods and Professional Practice
 
-This e-portfolio is thoughtfully curated to showcase my academic progress during the University of Essex Online’s Research Methods and Professional Practice module, April 2025.
+This e-portfolio is thoughtfully curated to showcase my academic progress during the University of Essex Online Research Methods and Professional Practice module, April 2025. Covering a range of topics from research design and literature review to hypothesis testing, ethics, and professional skill development, it reflects the key concepts, skills, and critical reflections I have developed throughout the course. This portfolio presents a cohesive narrative of my learning journey, demonstrating how I have applied research principles and statistical techniques in both academic and real-world contexts, while preparing for independent research and long-term professional growth.
 
 ---
 
