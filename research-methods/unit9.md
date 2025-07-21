@@ -11,7 +11,7 @@ In this task, I completed the Charts worksheet using Excel to analyse brand pref
 
 Visualisations and analysis available <a href="pdf/E-Portfolio Activity Charts Example Worksheet.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
-Brand Preferences by Area Worksheet available <a href="pdf/Exe 9.1-2D.xlsx" target="_blank" rel="noopener noreferrer">here</a>.
+Brand Preferences Worksheet available <a href="pdf/Exe 9.1-2D.xlsx" target="_blank" rel="noopener noreferrer">here</a>.
 
 Diet Comparison Worksheet available <a href="pdf/Exe 9.3B.xlsx" target="_blank" rel="noopener noreferrer">here</a>.
 
