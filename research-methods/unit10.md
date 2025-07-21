@@ -6,9 +6,9 @@ title: Unit 10
 # Statistical Worksheet Submission
 ---
 
-In this activity, 
+This activity involved analysing several datasets using descriptive statistics and visual interpretation. I explored differences between diets, brand preferences, income distributions, and filtration agents, focusing on key measures such as means, medians, and variability. I drew conclusions based on observable data patterns and submitted my written analyses for formative feedback, demonstrating critical interpretation across a range of datasets.
 
-Document <a href="pdf/Dataset analysis.pdf" target="_blank" rel="noopener noreferrer">here</a>
+Full analysis available <a href="pdf/Dataset analysis.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
 
 <style>
