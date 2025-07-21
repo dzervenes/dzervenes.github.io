@@ -42,15 +42,15 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 5
 
-- [Reflective Activity 2: Case Study: Inappropriate Use of Surveys](unit5.html)
 - [Wiki Activity: Questionnaires](wiki.html)
+- [Reflective Activity 2: Case Study: Inappropriate Use of Surveys](unit5.html)
   
 ---
 
 ### Unit 7
 
 - [Literature Review](unit7.html)
-- [Seminar 4: Inferential Statistics Workshop and Statistics Worksheet](unit7.1.html)
+- [Statistics Worksheet](unit7.1.html)
 
   
 ---
