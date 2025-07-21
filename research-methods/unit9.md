@@ -7,9 +7,13 @@ title: Unit 9
 
 ---
 
-In this task, I completed the Charts worksheet using Excel to analyse brand preferences and diet outcomes. I created percentage bar charts for Area 1 and Area 2, a clustered bar chart for comparison, and relative frequency histograms for Diet A vs Diet B. The visualisations revealed regional variation in cereal brand loyalty and differences in weight loss distributions. Diet B showed more consistent results. This activity enhanced my ability to summarise and interpret data through appropriate chart types. The completed worksheet is available upon request.
+In this task, I completed the Charts worksheet using Excel to analyse brand preferences and diet outcomes. I created percentage bar charts for Area 1 and Area 2, a clustered bar chart for comparison, and relative frequency histograms for Diet A vs Diet B. The visualisations revealed regional variation in cereal brand loyalty and differences in weight loss distributions. Diet B showed more consistent results. This activity enhanced my ability to summarise and interpret data through appropriate chart types. 
 
 Visualisations and analysis available <a href="pdf/E-Portfolio Activity Charts Example Worksheet.pdf" target="_blank" rel="noopener noreferrer">here</a>
+
+Brand Preferences by Area Worksheet available <a href="pdf/Exe 9.1-2D.xlsx" target="_blank" rel="noopener noreferrer">here</a>.
+Diet Comparison Worksheet available <a href="pdf/Exe 9.3B.xlsx" target="_blank" rel="noopener noreferrer">here</a>.
+
 
 
 <style>
