@@ -13,3 +13,4 @@ I am always keen to learn, collaborate, and contribute to meaningful ventures. F
 
 - [Machine Learning](machine-learning/index.md)
 - [Research Methods and Professional Practice](research-methods/index.md)
+- [Intelligent Agents](intelligent-agents/index.md)
