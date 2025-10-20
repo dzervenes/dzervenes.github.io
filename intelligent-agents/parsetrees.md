@@ -26,3 +26,13 @@ Full version available <a href="pdf/ParseTrees.pdf" target="_blank" rel="noopene
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s;
     margin: 15px 0; /* Adds space above and below the button */
+  }
+  .back-button:hover {
+    background-color: #006699;
+    color: white;
+ }
+</style>
+
+<div class="button-container">
+  <a href="https://dzervenes.github.io/machine-learning/" class="back-button">Back</a>
+</div>
