@@ -11,7 +11,7 @@ I am always keen to learn, collaborate, and contribute to meaningful ventures. F
 ---
 ## Intelligent Agents
 
-This e-portfolio is thoughtfully curated to showcase my academic progress during the University of Essex Online’s Machine Learning module, November 2024. Covering diverse topics, from Exploratory Data Analysis to Neural Networks, including Convolutional Neural Networks, it highlights the key concepts, skills, and reflections I have developed throughout the course. This portfolio presents a cohesive narrative of my learning journey, demonstrating how I have applied theoretical knowledge to practical tasks while showcasing my growth in the dynamic field of machine learning.
+This e-Portfolio has been carefully curated to showcase my academic progress during the University of Essex Online Intelligent Agents module, July 2025. Throughout this module, I explored the foundations and applications of agent-based computing, including Agent Communication Languages (ACLs), Agent-Based Systems (ABS), and ethical considerations in intelligent system design. The portfolio highlights key discussions, research activities, and practical exercises such as developing KQML and KIF agent dialogues that demonstrate my understanding of how autonomous agents interact, collaborate, and solve complex real-world problems. Collectively, these works reflect my growth in applying artificial intelligence principles to dynamic, distributed, and adaptive systems.
 
 ---
 
