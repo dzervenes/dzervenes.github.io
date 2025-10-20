@@ -46,5 +46,5 @@ Macal, C.M. and North, M.J. (2010) Tutorial on agent-based modelling and simulat
 </style>
 
 <div class="button-container">
-  <a href="https://dzervenes.github.io/machine-learning/" class="back-button">Back</a>
+  <a href="https://dzervenes.github.io/intelligent-agents/" class="back-button">Back</a>
 </div>
