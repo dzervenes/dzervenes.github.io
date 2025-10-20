@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Collaborative Discussion 1 : Agent Based Systems
+title: Collaborative Discussion 1 Agent Based Systems
 ---
-# Collaborative Discussion 1 : Agent Based Systems
+# Collaborative Discussion 1 Agent Based Systems
 
 ---
 
