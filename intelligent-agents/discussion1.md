@@ -6,7 +6,7 @@ title: Collaborative Discussion 1 Agent Based Systems
 
 ---
 
-In this exercise, I was asked to discuss the advantages and disadvantages of using Agent Communication Languages (ACLs) such as KQML and to compare them with method invocation in languages like Python or Java. I explained that ACLs enable richer, intention-based communication between autonomous agents, supporting flexibility and negotiation in distributed environments (Finin et al., 1994). I contrasted this with method invocation, which is faster but more rigid. I also explored how emerging research, including interoperability protocols and reinforcement learning, extends ACL principles for modern multi-agent systems, highlighting the ongoing trade-off between efficiency, expressiveness, and system autonomy.
+In this exercise, I was asked to discuss the factors behind the rise of agent-based systems (ABS) and the benefits they provide to organisations. I explained that ABS have grown in importance due to their ability to model and manage complex, dynamic environments that traditional systems cannot easily handle (Macal and North, 2010). I explored how they are applied in simulation and real-time operations, such as smart manufacturing (Leitão et al., 2016), and how emergence helps reveal collective behaviours that support better decision-making (Davidsson, Persson and Holmgren, 2007). Overall, I concluded that ABS offer flexibility, resilience, and scalability for modern organisations.
 
 
 ## Links to contributions
@@ -18,7 +18,12 @@ In this exercise, I was asked to discuss the advantages and disadvantages of usi
 
 Reference: 
 
-Finin, T., Fritzson, R., McKay, D. and McEntire, R. (1994) KQML as an agent communication language. Proceedings of the 3rd International Conference on Information and Knowledge Management. ACM. Available at: https://cdn.aaai.org/Workshops/1994/WS-94-02/WS94-02-007.pdf
+Davidsson, P., Persson, J.A. and Holmgren, J. (2007) On the integration of agent-based and mathematical optimisation techniques. In: Sichman, J.S. and Antunes, L. (eds.) Multi-Agent-Based Simulation VII. Berlin: Springer, pp. 1–15. Available at: https://www.researchgate.net/publication/221254879
+
+Leitão, P., Karnouskos, S., Ribeiro, L.M., Lee, J., Strasser, T. and Colombo, A.W. (2016) Smart agents in industrial cyber-physical systems. Proceedings of the IEEE, 104(5), pp. 1086–1101. Available at: https://ieeexplore.ieee.org/document/7437398
+
+Macal, C.M. and North, M.J. (2010) Tutorial on agent-based modelling and simulation. Journal of Simulation, 4(3), pp. 151–162. Available at: https://doi.org/10.1057/jos.2010.3
+
 
 <style>
   .back-button {
@@ -39,3 +44,7 @@ Finin, T., Fritzson, R., McKay, D. and McEntire, R. (1994) KQML as an agent comm
     color: white;
  }
 </style>
+
+<div class="button-container">
+  <a href="https://dzervenes.github.io/machine-learning/" class="back-button">Back</a>
+</div>
