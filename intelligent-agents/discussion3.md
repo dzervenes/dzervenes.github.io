@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Collaborative Discussion 1 - The 4th Industrial Revolution
+title: Collaborative Discussion 3: Deep Learning
 ---
-# Collaborative Discussion 1 : The 4th Industrial Revolution
+# Collaborative Discussion 3: Deep Learning
 
 ---
 
-This task explored the impact of Industry 4.0, as discussed in Schwab's (2016) article, where I chose to focus specifically on healthcare and mental health care. In my initial post, I discussed the potential of AI in mental health care, emphasising accessibility and data privacy challenges, referencing the BetterHelp case. In responses to discussions initiated by my peers, I analysed the WannaCry attack on the NHS and the Synnovis incident, highlighting the importance of cybersecurity measures such as network segmentation and patching. My summary post reinforced the need for ethical data practices and robust regulations to ensure trust and safety in healthcare.
-
-These discussions deepened my understanding of balancing technological advancement with security, ethics, and trust in sensitive sectors.
+In this exercise, I was asked to consider the ethical issues surrounding new deep learning technologies such as DALL·E and ChatGPT, which can automatically generate text and images. I explored how these systems raise important ethical concerns including environmental sustainability, accountability, transparency, and over-reliance on automation. My response discussed the carbon footprint of model training, the difficulty of tracing responsibility for AI outputs, and the risks of eroding human creativity and judgement. I concluded that ethical deep learning requires technical safeguards, transparent governance, and public dialogue to ensure that innovation aligns with human values and societal well-being.
 
 
 ## Links to contributions
@@ -18,9 +16,6 @@ These discussions deepened my understanding of balancing technological advanceme
 - <a href="pdf/Summary post discussion 3.pdf" target="_blank" rel="noopener noreferrer">Summary Post</a>
 
 
-Reference: 
-
-Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to respond, World Economic Forum, 14 January. Available at: https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/ (Accessed 28th October 2024).
 
 <style>
   .back-button {
