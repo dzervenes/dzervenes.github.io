@@ -11,7 +11,7 @@ I am always keen to learn, collaborate, and contribute to meaningful ventures. F
 ---
 ## Intelligent Agents
 
-This e-Portfolio has been carefully curated to showcase my academic progress during the University of Essex Online Intelligent Agents module, July 2025. Throughout this module, I explored the foundations and applications of agent-based computing, including Agent Communication Languages (ACLs), Agent-Based Systems (ABS), and ethical considerations in intelligent system design. The portfolio highlights key discussions, research activities, and practical exercises such as developing KQML and KIF agent dialogues that demonstrate my understanding of how autonomous agents interact, collaborate, and solve complex real-world problems. Collectively, these works reflect my growth in applying artificial intelligence principles to dynamic, distributed, and adaptive systems.
+This e-Portfolio showcases my academic progress during the University of Essex Online Intelligent Agents module, July 2025. It presents key discussions, research, and practical exercises that explore Agent-Based Systems (ABS), Agent Communication Languages (ACLs), and ethical issues in intelligent system design. Through developing KQML and KIF agent dialogues, I demonstrated my understanding of how autonomous agents collaborate and adapt, reflecting my growth in applying AI principles to real-world contexts.
 
 ---
 
