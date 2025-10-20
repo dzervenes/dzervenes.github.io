@@ -1,23 +1,16 @@
 ---
 layout: default
-title: Collaborative Discussion 1 - The 4th Industrial Revolution
+title: Creating Parse Trees
 ---
-# Collaborative Discussion 1 : The 4th Industrial Revolution
+# Creating Parse Trees
 
 ---
 
-This task explored the impact of Industry 4.0, as discussed in Schwab's (2016) article, where I chose to focus specifically on healthcare and mental health care. In my initial post, I discussed the potential of AI in mental health care, emphasising accessibility and data privacy challenges, referencing the BetterHelp case. In responses to discussions initiated by my peers, I analysed the WannaCry attack on the NHS and the Synnovis incident, highlighting the importance of cybersecurity measures such as network segmentation and patching. My summary post reinforced the need for ethical data practices and robust regulations to ensure trust and safety in healthcare.
-
-These discussions deepened my understanding of balancing technological advancement with security, ethics, and trust in sensitive sectors.
+In this exercise, I was asked to create constituency-based parse trees for three sentences: “The government raised interest rates,” “The internet gives everyone a voice,” and “The man saw the dog with the telescope.” I constructed the trees using standard syntactic categories such as NP (noun phrase), VP (verb phrase), and PP (prepositional phrase). The final example illustrated structural ambiguity, as the prepositional phrase “with the telescope” can modify either the verb (saw with the telescope) or the noun (the dog with the telescope). The resulting trees were generated and visualised in Python using NLTK and Matplotlib.
 
 
-## Links to contributions
+Full version available <a href="pdf/ParseTrees.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
-- <a href="pdf/ParseTrees.pdf" target="_blank" rel="noopener noreferrer">Initial Post</a>
-
-Reference: 
-
-Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to respond, World Economic Forum, 14 January. Available at: https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/ (Accessed 28th October 2024).
 
 <style>
   .back-button {
