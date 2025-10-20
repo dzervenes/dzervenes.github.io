@@ -35,4 +35,9 @@ In this exercise, I was asked to consider the ethical issues surrounding new dee
     background-color: #006699;
     color: white;
  }
-   </style>
+</style>
+
+<div class="button-container">
+  <a href="https://dzervenes.github.io/machine-learning/" class="back-button">Back</a>
+</div>
+
