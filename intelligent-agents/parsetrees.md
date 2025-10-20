@@ -12,6 +12,7 @@ In this exercise, I was asked to create constituency-based parse trees for three
 Full version available <a href="pdf/ParseTrees.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
 
+
 <style>
   .back-button {
     display: inline-block;
