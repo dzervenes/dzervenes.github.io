@@ -16,7 +16,7 @@ In this exercise, I was asked to discuss the factors behind the rise of agent-ba
 - <a href="pdf/Summary post discussion 1.pdf" target="_blank" rel="noopener noreferrer">Summary Post</a>
 
 
-Reference: 
+References: 
 
 Davidsson, P., Persson, J.A. and Holmgren, J. (2007) On the integration of agent-based and mathematical optimisation techniques. In: Sichman, J.S. and Antunes, L. (eds.) Multi-Agent-Based Simulation VII. Berlin: Springer, pp. 1–15. Available at: https://www.researchgate.net/publication/221254879
 
