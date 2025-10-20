@@ -13,9 +13,9 @@ These discussions deepened my understanding of balancing technological advanceme
 
 ## Links to contributions
 
-- <a href="pdf/Initial post discussion 1.pdf" target="_blank" rel="noopener noreferrer">Initial Post</a>
-- <a href="pdf/Peer Response discussion 1.pdf" target="_blank" rel="noopener noreferrer">Peer Responses</a>
-- <a href="pdf/Summary post discussion 1.pdf" target="_blank" rel="noopener noreferrer">Summary Post</a>
+- <a href="pdf/Initial post discussion 3.pdf" target="_blank" rel="noopener noreferrer">Initial Post</a>
+- <a href="pdf/Peer Response discussion 3.pdf" target="_blank" rel="noopener noreferrer">Peer Responses</a>
+- <a href="pdf/Summary post discussion 3.pdf" target="_blank" rel="noopener noreferrer">Summary Post</a>
 
 
 Reference: 
