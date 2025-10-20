@@ -13,7 +13,7 @@ These discussions deepened my understanding of balancing technological advanceme
 
 ## Links to contributions
 
-- <a href="pdf/Parse trees.pdf" target="_blank" rel="noopener noreferrer">Initial Post</a>
+- <a href="pdf/ParseTrees.pdf" target="_blank" rel="noopener noreferrer">Initial Post</a>
 
 Reference: 
 
