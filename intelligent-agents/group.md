@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Development Individual Project Presentation
+title: Development Team Project Project Report
 ---
-# Development Individual Project Presentation
+# Development Team Project: Project Report
 
 ---
 
