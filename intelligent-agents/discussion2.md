@@ -1,14 +1,13 @@
 ---
 layout: default
-title: Collaborative Discussion 1 - The 4th Industrial Revolution
+title: Collaborative Discussion 2 Agent Communication Languages
 ---
-# Collaborative Discussion 1 : The 4th Industrial Revolution
+# Collaborative Discussion 2 Agent Communication Languages
 
 ---
 
-This task explored the impact of Industry 4.0, as discussed in Schwab's (2016) article, where I chose to focus specifically on healthcare and mental health care. In my initial post, I discussed the potential of AI in mental health care, emphasising accessibility and data privacy challenges, referencing the BetterHelp case. In responses to discussions initiated by my peers, I analysed the WannaCry attack on the NHS and the Synnovis incident, highlighting the importance of cybersecurity measures such as network segmentation and patching. My summary post reinforced the need for ethical data practices and robust regulations to ensure trust and safety in healthcare.
 
-These discussions deepened my understanding of balancing technological advancement with security, ethics, and trust in sensitive sectors.
+In this exercise, I was asked to discuss the advantages and disadvantages of using Agent Communication Languages (ACLs) such as KQML and to compare them with method invocation in languages like Python or Java. I explained that ACLs enable richer, intention-based communication between autonomous agents, supporting flexibility and negotiation in distributed environments (Finin et al., 1994). I contrasted this with method invocation, which is faster but more rigid. I also explored how emerging research, including interoperability protocols and reinforcement learning, extends ACL principles for modern multi-agent systems, highlighting the ongoing trade-off between efficiency, expressiveness, and system autonomy.
 
 
 ## Links to contributions
@@ -17,10 +16,9 @@ These discussions deepened my understanding of balancing technological advanceme
 - <a href="pdf/Peer Response discussion 2.pdf" target="_blank" rel="noopener noreferrer">Peer Responses</a>
 - <a href="pdf/Summary post discussion 2.pdf" target="_blank" rel="noopener noreferrer">Summary Post</a>
 
-
 Reference: 
 
-Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to respond, World Economic Forum, 14 January. Available at: https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/ (Accessed 28th October 2024).
+Finin, T., Fritzson, R., McKay, D. and McEntire, R. (1994) KQML as an agent communication language. Proceedings of the 3rd International Conference on Information and Knowledge Management. ACM. Available at: https://cdn.aaai.org/Workshops/1994/WS-94-02/WS94-02-007.pdf
 
 <style>
   .back-button {
@@ -40,3 +38,8 @@ Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to res
     background-color: #006699;
     color: white;
  }
+</style>
+
+<div class="button-container">
+  <a href="https://dzervenes.github.io/machine-learning/" class="back-button">Back</a>
+</div>
