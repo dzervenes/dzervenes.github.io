@@ -23,25 +23,25 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 5: Agent Communication
 
-- [Collaborative Discussion 2: Agent Communication Languages](unit2.html)
+- [Collaborative Discussion 2: Agent Communication Languages](discussion2.html)
   
 ---
 
 ### Unit 6: Working Together
 
-- [Creating Agent Dialogues](unit3.html)
+- [Creating Agent Dialogues](unit6.html)
  
 ---
 
 ### Unit 8: Understanding Natural Language Processing (NLP)
 
-- [Creating Parse Trees](unit4.html)
+- [Creating Parse Trees](unit8.html)
   
 ---
 
 ### Unit 9: Introduction to Adaptive Algorithms
 
-- [Collaborative Discussion 3: Deep Learning](unit5.html)
+- [Collaborative Discussion 3: Deep Learning](discussion3.html)
   
 ---
 
