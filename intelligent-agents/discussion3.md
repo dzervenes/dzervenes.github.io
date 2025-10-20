@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Collaborative Discussion 3: Deep Learning
+title: Collaborative Discussion 3 Deep Learning
 ---
-# Collaborative Discussion 3: Deep Learning
+# Collaborative Discussion 3 Deep Learning
 
 ---
 
