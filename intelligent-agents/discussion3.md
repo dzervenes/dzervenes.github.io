@@ -34,5 +34,5 @@ In this exercise, I was asked to consider the ethical issues surrounding new dee
   .back-button:hover {
     background-color: #006699;
     color: white;
-    </style>
  }
+   </style>
