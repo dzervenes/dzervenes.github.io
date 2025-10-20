@@ -34,5 +34,5 @@ Full version available <a href="pdf/Deep learning.pdf" target="_blank" rel="noop
 </style>
 
 <div class="button-container">
-  <a href="https://dzervenes.github.io/machine-learning/" class="back-button">Back</a>
+   <a href="https://dzervenes.github.io/intelligent-agents/" class="back-button">Back</a>
 </div>
