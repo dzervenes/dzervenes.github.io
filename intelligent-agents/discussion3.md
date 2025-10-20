@@ -38,6 +38,6 @@ In this exercise, I was asked to consider the ethical issues surrounding new dee
 </style>
 
 <div class="button-container">
-  <a href="https://dzervenes.github.io/machine-learning/" class="back-button">Back</a>
+  <a href="https://dzervenes.github.io/intelligent-agents/" class="back-button">Back</a>
 </div>
 
