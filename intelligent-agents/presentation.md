@@ -9,7 +9,8 @@ title: Development Individual Project Presentation
 In this assignment, I was required to develop and present an individual project that built upon the group design from Unit 6. The focus was on implementing a functional multi-agent system using Python, based on the KQML and KIF communication frameworks. My presentation demonstrated how autonomous agents communicate, cooperate, and maintain ethical transparency through structured message exchanges. The work incorporated object-oriented programming, testing, and documentation to ensure code quality and reproducibility. This project allowed me to integrate theoretical principles from agent-based research into a practical, working system that reflected responsible and explainable AI design.
 
 
-Full version available <a href="pdf/presentation.pdf" target="_blank" rel="noopener noreferrer">here</a>
+Slides available <a href="pdf/presentation.pdf" target="_blank" rel="noopener noreferrer">here</a>
+Transcript available <a href="pdf/transcript.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
 
 <style>
