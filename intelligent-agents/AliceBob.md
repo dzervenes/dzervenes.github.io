@@ -1,23 +1,16 @@
 ---
 layout: default
-title: Collaborative Discussion 1 - The 4th Industrial Revolution
+title: Creating Agent Dialogues
 ---
-# Collaborative Discussion 1 : The 4th Industrial Revolution
+# Creating Agent Dialogues
 
 ---
 
-This task explored the impact of Industry 4.0, as discussed in Schwab's (2016) article, where I chose to focus specifically on healthcare and mental health care. In my initial post, I discussed the potential of AI in mental health care, emphasising accessibility and data privacy challenges, referencing the BetterHelp case. In responses to discussions initiated by my peers, I analysed the WannaCry attack on the NHS and the Synnovis incident, highlighting the importance of cybersecurity measures such as network segmentation and patching. My summary post reinforced the need for ethical data practices and robust regulations to ensure trust and safety in healthcare.
-
-These discussions deepened my understanding of balancing technological advancement with security, ethics, and trust in sensitive sectors.
+In this exercise, I was asked to create an agent dialogue using KQML (Knowledge Query and Manipulation Language) and KIF (Knowledge Interchange Format) between two agents: Alice, a procurement agent, and Bob, a warehouse agent. The goal was for Alice to query Bob about the available stock of 50-inch televisions and the number of HDMI slots they have. I designed and implemented this dialogue in Python, simulating realistic KQML messages containing KIF content. The program demonstrates how autonomous agents can exchange structured knowledge and responses in a standardised communication framework, supporting interoperability and intelligent coordination between systems.
 
 
-## Links to contributions
+Full version available <a href="pdf/AliceBob.pdf" target="_blank" rel="noopener noreferrer">here</a>
 
-- <a href="pdf/AliceBob.pdf" target="_blank" rel="noopener noreferrer">Initial Post</a>
-
-Reference: 
-
-Schwab, K. (2016) The Fourth Industrial Revolution: What it means and how to respond, World Economic Forum, 14 January. Available at: https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/ (Accessed 28th October 2024).
 
 <style>
   .back-button {
