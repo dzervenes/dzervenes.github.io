@@ -47,7 +47,7 @@ This e-portfolio is thoughtfully curated to showcase my academic progress during
 
 ### Unit 10: Deep Learning in Action
 
-- [Deep Learning in Action](unit6.html)
+- [Deep Learning in Action](deeplearning.html)
   
 ---
 
